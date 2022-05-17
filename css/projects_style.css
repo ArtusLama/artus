@@ -87,7 +87,6 @@ body {
     margin-top: 25px;
     filter:blur(2px);
     transition: all ease-in-out 100ms;
-       
 }
 
 .project:hover {
