@@ -66,7 +66,6 @@ body {
 
 .project {
     text-align: center;
-    align-items: center;
     color: white;
     background-color: #1e1e1e;
     height: 400px;
@@ -84,11 +83,17 @@ body {
     width: 200px; 
     height: 200px;
     content:"";
-    left: 50%;
-    right: 50%;    
+    margin-left: -70px;
+    margin-top: 25px;
+    filter:blur(2px);
+    transition: all ease-in-out 100ms;
+       
 }
 
 .project:hover {
     transform: translate3d(-2px, -5px, 0px);
     box-shadow: #000000 5px 14px 28px;
+}
+.project:hover::before{
+    filter:blur(0px);
 }
