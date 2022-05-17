@@ -63,11 +63,32 @@ body {
 
 }
 
+
 .project {
     text-align: center;
+    align-items: center;
     color: white;
-    background-color: #70efde;
+    background-color: #1e1e1e;
     height: 400px;
     width: auto;
     border-radius: 50px;
+    box-shadow: #080808 5px 8px 24px;
+    transition: all ease-in-out 100ms;
+}
+
+.project::before {
+    position: absolute;
+    background-image: url("images/GameOfLife.svg");
+    background-size: 200px 200px;
+    display: inline-block;
+    width: 200px; 
+    height: 200px;
+    content:"";
+    left: 50%;
+    right: 50%;    
+}
+
+.project:hover {
+    transform: translate3d(-2px, -5px, 0px);
+    box-shadow: #000000 5px 14px 28px;
 }
