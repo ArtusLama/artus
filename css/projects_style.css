@@ -45,3 +45,27 @@ body {
     background-color: #1a1a1a;
     cursor: pointer;
 }
+
+
+.projects {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    column-gap: 50px;
+    row-gap: 50px;
+
+    padding-top: 50px;
+
+    position: absolute;
+    top: 200px;
+    left: 10%;
+    right: 10%;
+
+
+}
+
+.project {
+    color: white;
+    background-color: #70efde;
+    height: 400px;
+    width: auto;
+}
