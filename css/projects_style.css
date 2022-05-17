@@ -64,8 +64,10 @@ body {
 }
 
 .project {
+    text-align: center;
     color: white;
     background-color: #70efde;
     height: 400px;
     width: auto;
+    border-radius: 50px;
 }
