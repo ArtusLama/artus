@@ -15,28 +15,33 @@ body {
 
 
 
-nav ul {
-    width: 100%;
+.navbar {
+    position: absolute;
+    top:20px;
+    left: 10%;
+    right: 10%;
     height: 100px;
     background-color: #1e1e1e;
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
+    border-radius: 100px;
 }
-nav ul li {
+.navbar li {
     float: right;
     height: 100px;
-    font-size: 30px;
+    font-size: 20px;
     font-family: Calibri;
+    font-weight: bold;
     text-align: center;
     padding-left: 50px;
     padding-right: 50px;
     color: #70efde;
-    padding-top: 30px;
+    padding-top: 35px;
     user-select: none;
 }
-nav ul li:hover{
-    background-color: #171717;
+.navbar li:hover{
+    background-color: #1a1a1a;
     cursor: pointer;
 }
