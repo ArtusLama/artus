@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="GameOfLife.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="8.042923"
+     inkscape:cx="19.4581"
+     inkscape:cy="30.648062"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     units="px" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#70efde;fill-opacity:1;stroke-width:0.264999;stroke-dashoffset:143.131;paint-order:stroke fill markers"
+       id="rect868"
+       width="3.0514553"
+       height="3.0514553"
+       x="1.4824007"
+       y="8.3583612"
+       ry="2.1053705"
+       rx="2.1053705" />
+    <rect
+       style="fill:#70efde;fill-opacity:1;stroke-width:0.264999;stroke-dashoffset:143.131;paint-order:stroke fill markers"
+       id="rect1054"
+       width="3.0514553"
+       height="3.0514553"
+       x="4.6694403"
+       y="8.3583612"
+       ry="2.1053705"
+       rx="2.1053705" />
+    <rect
+       style="fill:#70efde;fill-opacity:1;stroke-width:0.264999;stroke-dashoffset:143.131;paint-order:stroke fill markers"
+       id="rect1136"
+       width="3.0514553"
+       height="3.0514553"
+       x="7.8564739"
+       y="8.3583612"
+       ry="2.1053705"
+       rx="2.1053705" />
+    <rect
+       style="fill:#70efde;fill-opacity:1;stroke-width:0.264999;stroke-dashoffset:143.131;paint-order:stroke fill markers"
+       id="rect1138"
+       width="3.0514553"
+       height="3.0514553"
+       x="7.8564739"
+       y="5.1713219"
+       ry="2.1053705"
+       rx="2.1053705" />
+    <rect
+       style="fill:#70efde;fill-opacity:1;stroke-width:0.264999;stroke-dashoffset:143.131;paint-order:stroke fill markers"
+       id="rect1140"
+       width="3.0514553"
+       height="3.0514553"
+       x="4.6694403"
+       y="1.9842883"
+       ry="2.1053705"
+       rx="2.1053705" />
+    <rect
+       style="fill:#e5f4f2;fill-opacity:1;stroke-width:0.264999;stroke-dashoffset:143.131;paint-order:stroke fill markers"
+       id="rect1245"
+       width="0.056085914"
+       height="11.779809"
+       x="4.5737858"
+       y="0.50783163"
+       rx="2.1053717"
+       ry="1.1842737" />
+    <rect
+       style="fill:#e5f4f2;fill-opacity:1;stroke-width:0.264999;stroke-dashoffset:143.131;paint-order:stroke fill markers"
+       id="rect1245-3"
+       width="0.056085914"
+       height="11.779809"
+       x="-5.1400194"
+       y="0.51658607"
+       rx="2.1053717"
+       ry="1.1842737"
+       transform="rotate(-90)" />
+    <rect
+       style="fill:#e5f4f2;fill-opacity:1;stroke-width:0.264999;stroke-dashoffset:143.131;paint-order:stroke fill markers"
+       id="rect1245-3-7"
+       width="0.056085914"
+       height="11.779809"
+       x="-8.3260794"
+       y="0.52354544"
+       rx="2.1053717"
+       ry="1.1842737"
+       transform="rotate(-90)" />
+    <rect
+       style="fill:#e5f4f2;fill-opacity:1;stroke-width:0.264999;stroke-dashoffset:143.131;paint-order:stroke fill markers"
+       id="rect1245-7"
+       width="0.056085914"
+       height="11.779809"
+       x="7.7580171"
+       y="0.49535519"
+       rx="2.1053717"
+       ry="1.1842737" />
+  </g>
+</svg>
