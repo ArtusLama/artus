@@ -10,55 +10,30 @@ body {
 }
 
 
-
-
-
-
-
-.navbar {
-    position: absolute;
-    top:20px;
-    left: 10%;
-    right: 10%;
-    height: 100px;
-    background-color: #1e1e1e;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    border-radius: 100px;
-}
-.navbar li {
-    float: right;
-    height: 100px;
-    font-size: 20px;
+h1{
+    font-size: 75px;
     font-family: Calibri;
-    font-weight: bold;
-    text-align: center;
-    padding-left: 50px;
-    padding-right: 50px;
-    color: #70efde;
-    padding-top: 35px;
-    user-select: none;
-}
-.navbar li:hover{
-    background-color: #1a1a1a;
-    cursor: pointer;
+    font-weight: bolder;
+    color: #c38fff;
+    letter-spacing: 10px;
+    position: absolute;
+    left: 42%;
+    top: 250px;
 }
 
 
 .projects {
     display: grid;
     grid-template-columns: auto auto auto;
-    column-gap: 50px;
-    row-gap: 50px;
+    column-gap: 100px;
+    row-gap: 150px;
 
     padding-top: 50px;
 
     position: absolute;
-    top: 200px;
-    left: 10%;
-    right: 10%;
+    top: 400px;
+    left: 20%;
+    right: 20%;
 
 
 }
@@ -75,24 +50,94 @@ body {
     transition: all ease-in-out 100ms;
 }
 
-.project::before {
-    position: absolute;
+
+#project_1.project::before {
+    background-image: url("images/snake.svg");
+}
+#project_2.project::before {
     background-image: url("images/GameOfLife.svg");
+}
+#project_3.project::before {
+    background-image: url("images/GameOfLife.svg");
+}
+
+.project::before {
+    position: relative;
     background-size: 200px 200px;
     display: inline-block;
     width: 200px; 
     height: 200px;
     content:"";
-    margin-left: -70px;
-    margin-top: 25px;
-    filter:blur(2px);
-    transition: all ease-in-out 100ms;
 }
 
 .project:hover {
-    transform: translate3d(-2px, -5px, 0px);
+    transform:translateY(-10px);
     box-shadow: #000000 5px 14px 28px;
 }
-.project:hover::before{
-    filter:blur(0px);
+
+.project p{
+    top: -30px;
+    font-size: 35px;
+    font-family: Calibri;
+    font-weight: bold;
+    color: #c38fff;
+    letter-spacing: 10px;
+    background: linear-gradient(-45deg, #c38fff, #ff8f93, #cbff8f, #8ffffb,#9bf0e8, #c38fff);
+    background-size: 300%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+    animation: text_anim 10s infinite;
 }
+
+
+@keyframes text_anim {
+    0% { background-position: 0px 50%; }
+	50% { background-position: 75% 50%; }
+	100% { background-position: 150% 50%; }
+}
+
+
+
+
+.project button {
+    width: 150px;
+    height: 40px;
+    background-color: #c38fff;
+    border-radius: 100px;
+    border-width: 0px;
+    color: #f9f4ff;
+    font-size: 20px;
+    font-family: Calibri;
+    font-weight: bold;
+    padding-left: 35px;
+    transition: all 200ms ease-in-out;
+}
+
+.project button:hover {
+    background-color: #8964b3;
+    transform: scale(1.1);
+}
+
+
+.project button:active {
+    background-color: #755699;
+    transition: 100ms ease-in-out;
+}
+
+
+.project button::before {
+    background: url("images/visit.svg");
+    position: absolute;
+    background-size: 25px 25px;
+    width: 25px; 
+    height: 25px;
+    content:"";
+    margin-left: -30px;
+    margin-top: 1px;
+}
+
+
+
+
+
