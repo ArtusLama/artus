@@ -27,6 +27,7 @@ h1{
     grid-template-columns: auto auto auto;
     column-gap: 100px;
     row-gap: 150px;
+    
 
     padding-top: 50px;
 
@@ -44,7 +45,7 @@ h1{
     color: white;
     background-color: #1e1e1e;
     height: 400px;
-    width: auto;
+    width: 450px;
     border-radius: 50px;
     box-shadow: #080808 5px 8px 24px;
     transition: all ease-in-out 100ms;
