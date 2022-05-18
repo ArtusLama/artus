@@ -17,7 +17,7 @@ h1{
     color: #c38fff;
     letter-spacing: 10px;
     position: absolute;
-    left: 42%;
+    left: 21%;
     top: 250px;
 }
 
@@ -57,9 +57,7 @@ h1{
 #project_2.project::before {
     background-image: url("images/GameOfLife.svg");
 }
-#project_3.project::before {
-    background-image: url("images/GameOfLife.svg");
-}
+
 
 .project::before {
     position: relative;
