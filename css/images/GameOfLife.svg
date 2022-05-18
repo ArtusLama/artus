@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="128.68677"
-     inkscape:cx="2.1719405"
-     inkscape:cy="30.558698"
+     inkscape:zoom="16.085846"
+     inkscape:cx="18.556686"
+     inkscape:cy="29.062817"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
@@ -41,86 +41,48 @@
      id="layer1">
     <rect
        style="fill:#70efde;fill-opacity:1;stroke-width:0.264999;stroke-dashoffset:143.131;paint-order:stroke fill markers"
-       id="rect868"
-       width="3.0514553"
-       height="3.0514553"
-       x="1.4824007"
-       y="8.3583612"
-       ry="2.1053705"
-       rx="2.1053705" />
-    <rect
-       style="fill:#70efde;fill-opacity:1;stroke-width:0.264999;stroke-dashoffset:143.131;paint-order:stroke fill markers"
-       id="rect1054"
-       width="3.0514553"
-       height="3.0514553"
-       x="4.6694403"
-       y="8.3583612"
-       ry="2.1053705"
-       rx="2.1053705" />
-    <rect
-       style="fill:#70efde;fill-opacity:1;stroke-width:0.264999;stroke-dashoffset:143.131;paint-order:stroke fill markers"
-       id="rect1136"
-       width="3.0514553"
-       height="3.0514553"
-       x="7.8564739"
-       y="8.3583612"
-       ry="2.1053705"
-       rx="2.1053705" />
-    <rect
-       style="fill:#70efde;fill-opacity:1;stroke-width:0.264999;stroke-dashoffset:143.131;paint-order:stroke fill markers"
-       id="rect1138"
-       width="3.0514553"
-       height="3.0514553"
-       x="7.8564739"
-       y="5.1713219"
-       ry="2.1053705"
-       rx="2.1053705" />
-    <rect
-       style="fill:#70efde;fill-opacity:1;stroke-width:0.264999;stroke-dashoffset:143.131;paint-order:stroke fill markers"
        id="rect1140"
        width="3.0514553"
        height="3.0514553"
        x="4.6694403"
        y="1.9842883"
-       ry="2.1053705"
-       rx="2.1053705" />
+       ry="0.37830877"
+       rx="0.37830877" />
     <rect
-       style="fill:#e5f4f2;fill-opacity:1;stroke-width:0.264999;stroke-dashoffset:143.131;paint-order:stroke fill markers"
-       id="rect1245"
-       width="0.056085914"
-       height="11.779809"
-       x="4.5737858"
-       y="0.50783163"
-       rx="0.028042957"
-       ry="0.028042957" />
+       style="fill:#70efde;fill-opacity:1;stroke-width:0.264999;stroke-dashoffset:143.131;paint-order:stroke fill markers"
+       id="rect1140-6"
+       width="3.0514553"
+       height="3.0514553"
+       x="7.8559999"
+       y="5.1069999"
+       ry="0.37830877"
+       rx="0.37830877" />
     <rect
-       style="fill:#e5f4f2;fill-opacity:1;stroke-width:0.264999;stroke-dashoffset:143.131;paint-order:stroke fill markers"
-       id="rect1245-3"
-       width="0.056085914"
-       height="11.779809"
-       x="-5.1400194"
-       y="0.51658607"
-       rx="0.024672311"
-       ry="0.024672311"
-       transform="rotate(-90)" />
+       style="fill:#70efde;fill-opacity:1;stroke-width:0.264999;stroke-dashoffset:143.131;paint-order:stroke fill markers"
+       id="rect1140-0"
+       width="3.0514553"
+       height="3.0514553"
+       x="1.418"
+       y="8.3583612"
+       ry="0.37830877"
+       rx="0.37830877" />
     <rect
-       style="fill:#e5f4f2;fill-opacity:1;stroke-width:0.264999;stroke-dashoffset:143.131;paint-order:stroke fill markers"
-       id="rect1245-3-7"
-       width="0.056085914"
-       height="11.779809"
-       x="-8.3260794"
-       y="0.52354544"
-       rx="0.026728338"
-       ry="0.026728338"
-       transform="rotate(-90)" />
+       style="fill:#70efde;fill-opacity:1;stroke-width:0.264999;stroke-dashoffset:143.131;paint-order:stroke fill markers"
+       id="rect1140-2"
+       width="3.0514553"
+       height="3.0514553"
+       x="4.6690001"
+       y="8.3583612"
+       ry="0.37830877"
+       rx="0.37830877" />
     <rect
-       style="fill:#e5f4f2;fill-opacity:1;stroke-width:0.264999;stroke-dashoffset:143.131;paint-order:stroke fill markers"
-       id="rect1245-7"
-       width="0.056085914"
-       height="11.779809"
-       x="7.7580171"
-       y="0.49535519"
-       rx="0.028042957"
-       ry="0.028042957" />
+       style="fill:#70efde;fill-opacity:1;stroke-width:0.264999;stroke-dashoffset:143.131;paint-order:stroke fill markers"
+       id="rect1140-2-6"
+       width="3.0514553"
+       height="3.0514553"
+       x="7.9200001"
+       y="8.3583622"
+       ry="0.37830877"
+       rx="0.37830877" />
   </g>
 </svg>
