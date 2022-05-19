@@ -24,7 +24,7 @@ h1{
 
 .projects {
     display: grid;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
     column-gap: 100px;
     row-gap: 150px;
     
@@ -70,6 +70,7 @@ h1{
 }
 
 .project:hover {
+    background-color: #2d2d2d;
     transform:translateY(-10px);
     box-shadow: #000000 5px 14px 28px;
 }
