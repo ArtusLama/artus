@@ -1,0 +1,29 @@
+body {
+    background-color: #121212;
+    height: 2000px;
+    top: 0px;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+
+h1{
+    font-size: 100px;
+    font-family: Calibri;
+    font-weight: bolder;
+    color: #c38fff;
+    letter-spacing: 10px;
+    position: absolute;
+    left: 5%;
+}
+
+.content{
+    background-color: #f9f4ff;
+    position: absolute;
+    left: 10%;
+    top: 250px;
+    width: 75%;
+    height: 1000px;
+    margin-top: 200px;
+    border-radius: 100px;
+}
