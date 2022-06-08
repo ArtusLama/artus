@@ -27,3 +27,26 @@ h1{
     margin-top: 200px;
     border-radius: 100px;
 }
+
+.download_button{
+    width: 150px;
+    height: 40px;
+    background-color: #c38fff;
+    border-radius: 100px;
+    border-width: 0px;
+    color: #f9f4ff;
+    font-size: 20px;
+    font-family: Calibri;
+    font-weight: bold;
+    padding-left: 35px;
+}
+
+.download_button::before{
+    background: url("images/download.svg");
+    position: absolute;
+    background-size: 25px 25px;
+    width: 25px; 
+    height: 25px;
+    content:"";
+    margin-left: -30px;
+}
